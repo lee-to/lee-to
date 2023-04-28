@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**lee-to/lee-to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Danil Shutsky, I’m the creator and author of the [CutCode channel on YouTube](https://www.youtube.com/CutCodeRu)
 
-Here are some ideas to get you started:
+**🔭 I’m currently working on ...** 
+- [CutCode YouTube](https://www.youtube.com/CutCodeRu)
+- [CutCode Community](https://t.me/laravel_chat)
+- [MoonShine - Admin panel for Laravel](https://moonshine.cutcode.dev)
+- [CutCode project](https://cutcode.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📫 How to reach out to me:** 
+- Email: info@cutcode.ru
+- Telegram: [@leeto_telegram](https://t.me/leeto_telegram)
+
+**☕️ Buy me a coffee:**
+- https://www.buymeacoffee.com/cutcode
+
