@@ -9,7 +9,7 @@ My name is Danil Shutsky, I’m the creator and author of the [CutCode channel o
 - [CutCode project](https://cutcode.dev)
 
 **📫 How to reach out to me:** 
-- Email: info@cutcode.ru
+- Email: thecutcode@gmail.com
 - Telegram: [@leeto_telegram](https://t.me/leeto_telegram)
 
 **☕️ Buy me a coffee:**
