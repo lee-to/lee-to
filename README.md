@@ -17,5 +17,5 @@ My name is Danil Shutsky, I’m the creator and author of the [CutCode channel o
 **☕️ Buy me a coffee:**
 - https://www.buymeacoffee.com/cutcode
 
-[![lee-to github stats](https://github-readme-stats.vercel.app/api?username=lee-to)](https://github.com/anuraghazra/github-readme-stats)
+[![lee-to github stats](https://github-readme-stats-nu-seven-34.vercel.app/api?username=lee-to)](https://github.com/anuraghazra/github-readme-stats)
 
