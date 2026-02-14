@@ -5,10 +5,9 @@ My name is Danil Shutsky, I’m the creator and author of the [CutCode channel o
 **🔭 I’m currently working on ...** 
 - [CutCode YouTube](https://www.youtube.com/CutCodeRu)
 - [Laravel Community](https://t.me/laravel_chat)
-- [Symfony Community](https://t.me/symfony_cutcode)
+- [AI Community](https://t.me/ai_chat_cutcode)
 - [MoonShine - Admin panel](https://getmoonshine.app)
 - [CutCode project](https://cutcode.dev)
-- [onFriday - Zero downtime deployment](https://on-fri.day)
 
 **📫 How to reach out to me:** 
 - Email: thecutcode@gmail.com
