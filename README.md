@@ -29,3 +29,5 @@ I’m working on approaches, tools, and products that help developers move from 
 
 ### Support
 - [Buy me a coffee](https://www.buymeacoffee.com/cutcode)
+
+[![lee-to github stats](https://github-readme-stats-nu-seven-34.vercel.app/api?username=lee-to)](https://github.com/anuraghazra/github-readme-stats)
